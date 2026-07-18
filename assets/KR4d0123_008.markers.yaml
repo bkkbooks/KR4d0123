@@ -730,6 +730,7 @@ markers:
   - {type: line-break, offset: 1888, content: '', id: KR4d0123_WYG_008-9a01}
   - {type: indent, offset: 1888, content: 　　　, id: KR4d0123_krp_008-bkkind59}
   - {type: punctuation, offset: 1890, content: (, id: KR4d0123_krp_008-bkkpn1}
+  - {type: voice, offset: 1890, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 1894, content: /, id: KR4d0123_krp_008-bkkpn2}
   - {type: punctuation, offset: 1898, content: ), id: KR4d0123_krp_008-bkkpn3}
   - {type: 'kr:newline', offset: 1898, content: '
@@ -1186,6 +1187,7 @@ markers:
   - {type: line-break, offset: 3093, content: '', id: KR4d0123_WYG_008-14a02}
   - {type: indent, offset: 3093, content: 　　　, id: KR4d0123_krp_008-bkkind98}
   - {type: punctuation, offset: 3096, content: (, id: KR4d0123_krp_008-bkkpn4}
+  - {type: voice, offset: 3096, length: 58, name: note, id: n2}
   - {type: punctuation, offset: 3113, content: /, id: KR4d0123_krp_008-bkkpn5}
   - {type: punctuation, offset: 3130, content: ), id: KR4d0123_krp_008-bkkpn6}
   - {type: 'kr:newline', offset: 3130, content: '
@@ -1628,6 +1630,7 @@ markers:
   - {type: line-break, offset: 4438, content: '', id: KR4d0123_WYG_008-18b07}
   - {type: indent, offset: 4438, content: 　　　, id: KR4d0123_krp_008-bkkind128}
   - {type: punctuation, offset: 4449, content: (, id: KR4d0123_krp_008-bkkpn10}
+  - {type: voice, offset: 4449, length: 16, name: note, id: n3}
   - {type: punctuation, offset: 4457, content: /, id: KR4d0123_krp_008-bkkpn11}
   - {type: substitution, offset: 4463, original: 竝, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16390}}
   - {type: punctuation, offset: 4465, content: ), id: KR4d0123_krp_008-bkkpn12}
@@ -2288,4 +2291,4 @@ markers:
 
       ', id: KR4d0123_krp_008-bkkkrnewl460}
   back: []
-hash: sha256:75f228bd6f6096ff4e064fe7ff7f3cee1d4bc7a1d8733391c8b4aba972e6d18f
+hash: sha256:57f8e295044955c5615cfac4076f4962ffa1efdba9412f443393f114f630d7d4
